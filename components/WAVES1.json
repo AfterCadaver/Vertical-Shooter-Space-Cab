@@ -1,0 +1,138 @@
+{
+    "members":[
+               {
+                "ship":"brakar 1",
+                "speed":"slow",
+                "formation":"vertical",
+                "number":5,
+                "spacing":80,
+                "offset":20,
+                "x_axis":50,
+                "state":"none",
+                "mode":"server",
+                "enters at":120
+               },
+                {
+                "ship":"brakar 1",
+                "speed":"slow",
+                "formation":"vertical",
+                "number":5,
+                "spacing":80,
+                "x_axis":450,
+                "state":"none",
+                "mode":"server",
+                "enters at":180
+                },
+                {
+                "ship":"brakar 1",
+                "speed":"very fast",
+                "formation":"vertical",
+                "number":5,
+                "spacing":80,
+                "x_axis":350,
+                "state":"none",
+                "mode":"server",
+                "enters at":120
+               },
+               {
+                "ship":"brakar 2",
+                "speed":"ludicrous",
+                "formation":"v",
+                "number":3,
+                "spacing":100,
+                "x_axis":220,
+                "state":"sine",
+                "mode":"server",
+                "enters at":250
+               },
+               {
+                "ship":"brakar 1",
+                "speed":"slow",
+                "formation":"v",
+                "number":2,
+                "spacing":80,
+                "x_axis":80,
+                "state":"charging",
+                "mode":"server",
+                "enters at":200
+               },
+               {
+                "ship":"brakar 1",
+                "speed":"slow",
+                "formation":"jagged",
+                "number":5,
+                "spacing":80,
+                "x_axis":80,
+                "state":"charging",
+                "mode":"server",
+                "enters at":60
+               },
+              {
+                "ship":"brakar 1",
+                "speed":"slow",
+                "formation":"vertical",
+                "number":5,
+                "spacing":80,
+                "x_axis":380,
+                "state":"charging",
+                "mode":"server",
+                "enters at":250
+               },
+              {
+                "ship":"brakar 1",
+                "speed":"slow",
+                "formation":"v",
+                "number":5,
+                "spacing":80,
+                "x_axis":80,
+                "state":"charging",
+                "mode":"server",
+                "enters at":60
+               },
+               {
+                "ship":"brakar 2",
+                "speed":"slow",
+                "formation":"vertical",
+                "number":1,
+                "spacing":0,
+                "x_axis":40,
+                "state":"infmovement",
+                "mode":"turret",
+                "enters at":180
+               },
+               {
+              "ship":"brakar 1",
+                "speed":"slow",
+                "formation":"v",
+                "number":5,
+                "spacing":80,
+                "x_axis":80,
+                "state":"charging",
+                "mode":"server",
+                "enters at":180
+              },
+                {
+                "ship":"brakar 1",
+                "speed":"slow",
+                "formation":"v",
+                "number":5,
+                "spacing":80,
+                "x_axis":80,
+                "state":"charging",
+                "mode":"server",
+                "enters at":180
+              },
+                {
+              "ship":"brakar 3",
+                "speed":"zero",
+                "formation":"v",
+                "number":1,
+                "spacing":0,
+                "x_axis":80,
+                "state":"sine",
+                "mode":"server",
+                "enters at":500
+              }
+              ],
+    "begins at":60
+}

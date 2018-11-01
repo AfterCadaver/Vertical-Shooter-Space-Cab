@@ -1,0 +1,34 @@
+{
+    "name":"Joy"
+    "dmg":1
+    "lvl":1
+    "sfx":"placeholder"
+}
+
+{
+    "name":"Taz"
+    "dmg":1
+    "lvl":1
+    "sfx":"placeholder"
+    "price":200
+}
+
+{
+    "name":"Nat"
+    "dmg":2
+    "lvl":1
+    "sfx":"placeholder"
+    "price":250
+}
+
+{
+    "name":"Rebo"
+    "dmg":1
+    "price":1500
+}
+
+{
+    "name":"Special"
+    "dmg":100
+    "lvl": "999999999?"
+}

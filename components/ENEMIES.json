@@ -1,0 +1,8 @@
+{
+    "enemy":1
+    "name":"brakar 1"
+    "states":[
+                  "alive",
+                  "dead"
+                  ]
+}

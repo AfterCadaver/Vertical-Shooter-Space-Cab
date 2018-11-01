@@ -1,0 +1,17 @@
+{
+    "members":[
+               {
+                "ship":"brakar 1",
+                "speed":5,
+                "formation":"v",
+                "number":5,
+                "spacing":50,
+                "offset":200,
+                "x_axis":0,
+                "state":"kamikaze",
+                "mode":"server",
+                "this":null
+               }
+              ],
+    "enters at":60000
+}
